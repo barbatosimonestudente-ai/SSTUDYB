@@ -1,22 +1,18 @@
 # SSTUDYB
 
-1° criterio: Efficacia degli strumenti di pianificazione (Area Organizzazione)
-L'app deve aiutare lo studente a gestire il tempo.
+1° criterio: esperienza dell'utente
+2° criterio: importanza
+3° criterio: 
 
-2° criterio: Sicurezza e profilazione per il matchmaking (Area Ricerca Compagni)
-Trovare i giusti compagni di studio con un sistema di filtraggio preciso e sicuro.
-
-3° criterio: Struttura e moderazione del repository (Area Condivisione Materiale)
-La condivisione di appunti e riassunti deve essere ordinata e sicura. 
-
-Funzionalità:
+Funzionalità in base al 1° criterio: 
 -Registrazione
--Creazione gruppi di studio in base a: materia
--Ricerca in base a: materia o istituto
 -chat di gruppo
--condividere materiali: appunti,schemi
--Scaricare il materiale degli altri
--Valutare e commentare i documenti caricati
--Scrivere nel forum delle domande e risposte
--Timer (monitorare ore studio)
-
+ -Creazione gruppi di studio in base a: materia
+ -condivisione materiali: appunti,schemi
+ -Scaricare il materiale degli altri
+ -Valutare e commentare i documenti caricati
+-Forum pubblico
+ -Scrivere nel forum delle domande e risposte
+-Ricerca in base a: materia o istituto
+-Calendario
+ -Timer per gestire le ore di studio effettive
