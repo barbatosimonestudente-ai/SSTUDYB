@@ -1,8 +1,7 @@
 # SSTUDYB
 
 1° criterio: esperienza dell'utente
-2° criterio: importanza
-3° criterio: 
+2° criterio: importanza 
 
 Funzionalità in base al 1° criterio: 
 -Registrazione
