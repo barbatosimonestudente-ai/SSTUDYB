@@ -11,10 +11,12 @@ La condivisione di appunti e riassunti deve essere ordinata e sicura.
 
 Funzionalità:
 -Registrazione
--Ricerca in base a: materia o istituto
--Timer (monitorare ore studio)
 -Creazione gruppi di studio in base a: materia
+-Ricerca in base a: materia o istituto
 -chat di gruppo
 -condividere materiali: appunti,schemi
-
+-Scaricare il materiale degli altri
+-Valutare e commentare i documenti caricati
+-Scrivere nel forum delle domande e risposte
+-Timer (monitorare ore studio)
 
