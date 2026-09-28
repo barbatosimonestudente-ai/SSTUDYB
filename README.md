@@ -9,7 +9,7 @@ Criteri di classificazione
 Funzionalità in base al 1° criterio — Esperienza dell'utente
 
  Requisiti funzionali:
-1. Come [Utente]  voglio [fare il login] così che [gli utenti rimangano salvati] 
+1. Come [Utente]  voglio [fare il login] così che [gli utenti rimangano salvati e possano accedere al proprio profilo] 
 2. Come [Utente] voglio [accedere ad un forum pubblico] così che [possa consultare le discussioni degli altri utenti]
 3. Come [Utente]  voglio [ scrivere domande nel forum] così che [possa chiedere aiuto agli altri utenti]
 4. Come [Utente]  voglio [ scrivere risposte nel forum] così che [possa aiutare gli altri utenti]
