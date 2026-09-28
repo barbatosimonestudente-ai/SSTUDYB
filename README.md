@@ -8,36 +8,19 @@ Criteri di classificazione
 
 Funzionalità in base al 1° criterio — Esperienza dell'utente
 
-Registrazione
-
-Forum pubblico
-
-Scrivere domande nel forum
-
-Scrivere risposte alle domande
-
-Chat di gruppo
-
-Creazione di gruppi di studio in base alla materia
-
-Condivisione di materiali:
-
-Appunti
-
-Schemi
-
-Download del materiale condiviso dagli altri utenti
-
-Valutazione dei documenti caricati
-
-Commenti sui documenti caricati
-
-Ricerca
-
-Ricerca per materia
-
-Ricerca per istituto
-
-Calendario
-
-Timer per gestire le ore di studio effettive
+ Requisiti funzionali:
+1. Registrazione degli utenti
+2. Forum pubblico
+3. Scrittura di domande nel forum
+4. Scrittura di risposte alle domande
+5. Chat di gruppo
+6. Creazione di gruppi di studio
+7. Condivisione di materiali
+8. Download dei materiali condivisi
+9. Valutazione dei documenti caricati
+10. Commenti sui documenti caricati
+11. Ricerca
+12. Ricerca per materia
+13. Ricerca per istituto
+14. Calendario
+15. Timer per gestire le ore di studio effettive
