@@ -22,5 +22,7 @@ Funzionalità in base al 1° criterio — Esperienza dell'utente
 11. Ricerca
 12. Calendario
 13. Timer per gestire le ore di studio effettive
+    
 Requisiti non funzionali:
+
 Requisiti di dominio:
