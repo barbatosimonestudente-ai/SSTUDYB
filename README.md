@@ -20,7 +20,7 @@ Funzionalità in base al 1° criterio — Esperienza dell'utente
 9. Valutazione dei documenti caricati
 10. Commenti sui documenti caricati
 11. Ricerca
-12. Ricerca per materia
-13. Ricerca per istituto
-14. Calendario
-15. Timer per gestire le ore di studio effettive
+12. Calendario
+13. Timer per gestire le ore di studio effettive
+Requisiti non funzionali:
+Requisiti di dominio:
