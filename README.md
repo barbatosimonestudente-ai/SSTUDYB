@@ -24,5 +24,14 @@ Funzionalità in base al 1° criterio — Esperienza dell'utente
 13. Timer per gestire le ore di studio effettive
     
 Requisiti non funzionali:
+1. Velocità di risposta dell'applicazione.
+2. Il sito deve essere disponibile 24 ore su 24.
+3. I dati degli utenti devono essere protetti e accessibili solo agli utenti autorizzati.
+4. 
+
 
 Requisiti di dominio:
+1. I gruppi di studio devono essere organizzati in base alla materia.
+2. La ricerca deve poter essere effettuata in base alla materia di studio.
+3. La ricerca deve poter essere effettuata in base all'istituto.
+4. L'applicazione deve rispettare il GDPR per la raccolta, il trattamento e la conservazione dei dati personali degli utenti.
