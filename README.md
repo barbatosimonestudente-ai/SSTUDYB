@@ -49,18 +49,18 @@ SWOT Analysis
 Strengths — Punti di forza
 
 -Collaborazione tra studenti
--Ricerca rapida dei contenuti
--Accessibilità continua
--Sicurezza e privacy
+,Ricerca rapida dei contenuti
+,Accessibilità continua
+,Sicurezza e privacy
 
 Weaknesses — Punti di debolezza
 -Qualità dei materiali condivisi non sempre garantita
--Numero elevato di funzioni
+,Numero elevato di funzioni
 
 Opportunities — Opportunità
 -Crescita della community di studenti
--Condivisione di un numero sempre maggiore di materiali didattici
--Personalizzazione dei contenuti in base alla materia e all'istituto
+,Condivisione di un numero sempre maggiore di materiali didattici
+,Personalizzazione dei contenuti in base alla materia e all'istituto
 
 Threats — Minacce
 -Pubblicazione di materiali errati o falsi
