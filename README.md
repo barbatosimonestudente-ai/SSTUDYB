@@ -45,19 +45,22 @@ Requisiti di dominio:
 4. L'applicazione deve rispettare il GDPR per la raccolta, il trattamento e la conservazione dei dati personali degli utenti.
 
 
-SWOT ANALYSIS:
--Strengths:
-	-Collaborazione tra studenti
-	-Ricerca dei contenuti rapida
-	-Accessibilità continua
-	-Sicurezza e privacy
--Weaknesses:
- -Qualità dei materiali condivisi non sempre garantita
- -Numero elevato di funzioni
--Opportunities:
-	-Crescita della community di studenti
-	-Condivisione di un numero sempre maggiore di materiali didattici
-	-Personalizzazione dei contenuti in base alla materia e all’istituto
--Threats:
-	-Pubblicazione di materiali errati, falsi
-	-
+SWOT Analysis
+Strengths — Punti di forza
+
+-Collaborazione tra studenti
+-Ricerca rapida dei contenuti
+-Accessibilità continua
+-Sicurezza e privacy
+
+Weaknesses — Punti di debolezza
+-Qualità dei materiali condivisi non sempre garantita
+-Numero elevato di funzioni
+
+Opportunities — Opportunità
+-Crescita della community di studenti
+-Condivisione di un numero sempre maggiore di materiali didattici
+-Personalizzazione dei contenuti in base alla materia e all'istituto
+
+Threats — Minacce
+-Pubblicazione di materiali errati o falsi
