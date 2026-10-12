@@ -68,3 +68,7 @@ Opportunities
 Threats
 
 -Pubblicazione di materiali errati o falsi
+
+
+
+Link all'SVG: https://yuml.me/3ca242e3.svg
