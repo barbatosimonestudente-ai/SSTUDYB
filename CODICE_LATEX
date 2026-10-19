@@ -1,3 +1,7 @@
+Link: https://it.overleaf.com/project/6accafbd1b27aa6b831d0b66
+
+
+
 \documentclass[a4paper,landscape]{article}
 
 \usepackage[margin=1cm]{geometry}
@@ -19,7 +23,6 @@
 }
 
 \begin{document}
-
 \begin{center}
 \begin{tikzpicture}[scale=0.88, transform shape]
 
@@ -49,19 +52,19 @@
         \umlusecase[x=7,y=5.2,width=3cm,name=domande]
             {Scrivere domande}
 
-        \umlusecase[x=7,y=3.5,width=3cm,name=risposte]
+        \umlusecase[x=9,y=3.5,width=3cm,name=risposte]
             {Scrivere risposte}
 
-        \umlusecase[x=7,y=0,width=3cm,name=condivisione]
+        \umlusecase[x=9,y=0,width=3cm,name=condivisione]
             {Condivisione materiali}
 
-        \umlusecase[x=12,y=1.7,width=3.5cm,name=valutazione]
+        \umlusecase[x=15,y=1.7,width=3.5cm,name=valutazione]
             {Valutazione/Commento}
 
-        \umlusecase[x=12,y=-1,width=3cm,name=download]
+        \umlusecase[x=15,y=-1,width=3cm,name=download]
             {Download Materiali}
 
-        \umlusecase[x=7,y=-7.5,width=2cm,name=login]
+        \umlusecase[x=9,y=-7.5,width=2cm,name=login]
             {Login}
 
     \end{umlsystem}
@@ -78,22 +81,17 @@
     \umlassoc{User}{ricerca}
     \umlassoc{User}{calendario}
     \umlassoc{User}{registrazione}
-
     \umlassoc{User non Registrato}{registrazione}
 
     \umlinclude{forum}{domande}
     \umlinclude{forum}{risposte}
     \umlinclude{forum}{condivisione}
-
     \umlinclude{chat}{condivisione}
-
     \umlinclude{condivisione}{download}
-
     \umlinclude{registrazione}{login}
 
     \umlextend{valutazione}{condivisione}
 
 \end{tikzpicture}
 \end{center}
-
 \end{document}
