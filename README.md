@@ -71,4 +71,5 @@ Threats
 
 
 Link al SVG : http://yuml.me/diagram/plain/usecase/.svg
+
 Link al LaTex: https://it.overleaf.com/project/6accafbd1b27aa6b831d0b66
